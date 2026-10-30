@@ -1,0 +1,17 @@
+body {
+  background-color: green; 
+  color: white; 
+}
+main, header {
+  background: #112240;      
+  border-radius: 8px;
+  box-shadow: 0 10px 30px blue(0, 0, 0, 0.3);
+}
+h1, h2 {
+  color: red;   
+}
+  h2{
+    text-decoration: underline;
+    color:white;
+  }
+
